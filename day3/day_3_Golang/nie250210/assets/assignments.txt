@@ -1,0 +1,37 @@
+#001 Pizza:     [Dhayalan + Farhaan]    [Rakshitha+Priyanka]
+                [Reshma+Sanidhya]
+    id, name, size, price, category
+
+    Size is, size of pizza in centimeters
+    Category is Indian, Italian or chinese
+
+#002 Coffee:        [Purushotham + Saikumar]
+                    [Poornima+Sakshi] 
+                    [Prerana+Sanjana]
+                    [Sanjana+Rishika]
+    id, category, type, price, sugar_level
+
+    TYPE is filter or instant 
+    CATEGORY is Small, Medium or Large
+    SUGAR_LEVEL: No, Less or Normal
+
+#003 Game:              [Rahul+Niranjan]
+    id, name, number_of_players, amount, description
+
+    Name of the game,
+    Number of players required to play the game,
+    Amount per head to play the game,
+    Description of the game should give info what the game is and how to play and important rule if any.
+
+#004 Employee   [Rishika+Poojitha]
+    id, name, designation, technology, Salary, commission, phone
+
+#005 Trainer
+    id, name, technology, experience_in_years, location, qualification, phone_number
+
+#006 Course:
+    id, name, duration, price, trainer_name, level, description
+
+    Duration of course in Hours,
+    Level is Beginner or intermediate or advance,
+    Description will have important topics and project details and other important information of the course.
